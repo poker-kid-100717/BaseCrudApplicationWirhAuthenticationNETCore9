@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseCrudApplicationWirhAuthenticationNETCore9.Server", "BaseCrudApplicationWirhAuthenticationNETCore9.Server\BaseCrudApplicationWirhAuthenticationNETCore9.Server.csproj", "{03905EEC-0737-491C-9AF3-ABEDB4F365C0}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "basecrudapplicationwirhauthenticationnetcore9.client", "basecrudapplicationwirhauthenticationnetcore9.client\basecrudapplicationwirhauthenticationnetcore9.client.esproj", "{C0CCF976-BFAA-420A-A17D-6455841C7252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseCrudApplicationWirhAuthenticationNETCore9.Core", "BaseCrudApplicationWirhAuthenticationNETCore9.Core\BaseCrudApplicationWirhAuthenticationNETCore9.Core.csproj", "{241CEC50-A1FB-4D84-BCBD-2221CA1ACE07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03905EEC-0737-491C-9AF3-ABEDB4F365C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03905EEC-0737-491C-9AF3-ABEDB4F365C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03905EEC-0737-491C-9AF3-ABEDB4F365C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03905EEC-0737-491C-9AF3-ABEDB4F365C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CCF976-BFAA-420A-A17D-6455841C7252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0CCF976-BFAA-420A-A17D-6455841C7252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0CCF976-BFAA-420A-A17D-6455841C7252}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C0CCF976-BFAA-420A-A17D-6455841C7252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0CCF976-BFAA-420A-A17D-6455841C7252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0CCF976-BFAA-420A-A17D-6455841C7252}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{241CEC50-A1FB-4D84-BCBD-2221CA1ACE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{241CEC50-A1FB-4D84-BCBD-2221CA1ACE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{241CEC50-A1FB-4D84-BCBD-2221CA1ACE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{241CEC50-A1FB-4D84-BCBD-2221CA1ACE07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
